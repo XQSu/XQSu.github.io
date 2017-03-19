@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### Welcome
+This is a collection of some of my technical work related to quantitative finance. Homework sets, papers I've authored, Python programs, and blog posts are all fair game.
 
-You can use the [editor on GitHub](https://github.com/XQSu/XiangqiSu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Programming in Finance
+We use Python, R and Matlab in some of our classes, and here are some of my works:
+* [Basics notebook](https://github.com/XQSu/qfrm-python/blob/master/python-basics-notebook.ipynb)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
+I am a grad student at the University of Michigan, in the [Quantitative Finance and Risk Management](https://lsa.umich.edu/math/graduates/quantitative-finance.html) program in University of Michigan, Ann Arbor. I did my undergraduate work in Economics, at Huazhong University of Science and Technology in China.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XQSu/XiangqiSu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
