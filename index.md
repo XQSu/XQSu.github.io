@@ -7,5 +7,5 @@ We use Python, R and Matlab in some of our classes, and here are some of my work
 
 ### About me
 * I am a grad student at the University of Michigan, in the [Quantitative Finance and Risk Management](https://lsa.umich.edu/math/graduates/quantitative-finance.html) program in University of Michigan, Ann Arbor. I did my undergraduate work in Economics, at Huazhong University of Science and Technology in China.
-* [Resume](https://github.com/XQSu/XQSu.github.io/blob/master/Xiangqi%20Su%20Resume2017.pdf)
+* [Resume](https://github.com/XQSu/XQSu.github.io/blob/master/Xiangqi%20Su%20Resume.pdf)
 
